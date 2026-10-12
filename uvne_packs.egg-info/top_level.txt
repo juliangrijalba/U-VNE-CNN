@@ -1,0 +1,8 @@
+0_labelling-py-R
+1_mels_generation-py-R
+2_cnn_training-py
+3_cnn_inference-py
+4_cnn_threshold_optimization_and_accuracy-R
+5_cnn_deployment_py_R
+uvne_packs
+venv

@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: uvne_packs
+Version: 0.1.0
+Summary: CNN urbanphony multilabel
+Author: Julián Grijalba
+Requires-Dist: tensorflow
+Requires-Dist: numpy
+Requires-Dist: pandas

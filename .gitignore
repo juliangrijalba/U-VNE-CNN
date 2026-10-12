@@ -1,0 +1,14 @@
+# Entornos virtuales de Python
+venv/
+.venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos temporales de R
+.RData
+.Rhistory
+
+# Archivos temporales de Microsoft Office
+~$*
