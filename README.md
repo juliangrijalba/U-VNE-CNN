@@ -38,4 +38,4 @@ This code repository contains R and Python scripts that process data and produce
 
 If you have any questions or difficulty implementing the above methods, contact the author at juiian.grijaba@rai.usc.es
 
-### This repository is part of Urbanphony efforts. A soundscape project boosted from the hearth of Mantra, Science, Art and Technology.
+**This repository is part of Urbanphony efforts. A soundscape project boosted from the hearth of Mantra, Science, Art and Technology.**
